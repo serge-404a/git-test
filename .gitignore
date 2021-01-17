@@ -1,3 +1,7 @@
 logs/
 form.html
 test.html
+main.cpp
+.idea/
+CMakeLists.txt
+cmake-build-debug/
